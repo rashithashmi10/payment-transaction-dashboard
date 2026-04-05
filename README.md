@@ -1,4 +1,4 @@
-# payment-transaction-dashboard
+# Payment Transaction Dashboard
 💰Payment Transaction Analysis Dashboard | Python + Power BI📊
 Analyzed 11,589 ATM withdrawal transactions spanning 7 years (2011–2017) to uncover spending patterns across festivals, ATM locations, card types, and days of the week.
 
