@@ -12,9 +12,14 @@ Built an interactive Power BI dashboard with 6 visualizations covering withdrawa
 Key Insights:
 
 NH (Non-Holiday) period accounts for 5.7bn in withdrawals — far exceeding all festival periods combined
+
 2014 was the peak withdrawal year at 1.2bn, followed by a steady decline through 2017
+
 KK Nagar ATM is the busiest location with 0.40M withdrawals
+
 XYZ Card withdrawals consistently outperform Other Card across all years
+
 Sunday is the highest withdrawal day (0.31M), with activity declining toward Friday
+
 
 Skills: Python (Programming Language), Microsoft Power BI, +3 skills
